@@ -1,0 +1,8 @@
+name: GemPlugin
+version: 1.0
+main: com.stormai.plugin.Main
+api-version: 1.21
+commands:
+  geminfo:
+    description: Show gem information
+    usage: /geminfo
